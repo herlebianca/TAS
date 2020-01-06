@@ -1,0 +1,5 @@
+C:\Users\bherle\source\repos\bank\bank\bin\Debug\bank.dll
+C:\Users\bherle\source\repos\bank\bank\bin\Debug\bank.pdb
+C:\Users\bherle\source\repos\bank\bank\obj\Debug\bank.csprojAssemblyReference.cache
+C:\Users\bherle\source\repos\bank\bank\obj\Debug\bank.dll
+C:\Users\bherle\source\repos\bank\bank\obj\Debug\bank.pdb
